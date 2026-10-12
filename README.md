@@ -11,11 +11,8 @@
 ## Пример кода
 Вот небольшой пример кода на Java:
 ## Пример кода
-
-public class Main {
-
-    public static void main(String[] args) {
-    
-        System.out.println("Привет, Мир!");
+    public class Main {
+      public static void main(String[] args) {
+          System.out.println("Привет, Мир!");
+      }
     }
-}
